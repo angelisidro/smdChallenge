@@ -3,7 +3,7 @@ Reto de sodardura SMD diseñado para ***FIT*** ( Foro de innovación Tecnológic
 
 | Top Layer | Bottom Layer |
 |----------|------|
-| <p align="center"><img src="img/both.jpg" width="80"></p> | <p align="center"><img src="img/top.jpg" width="80"></p> |
+| <p align="center"><img src="img/both.jpg" width="500"></p> | <p align="center"><img src="img/top.jpg" width="500"></p> |
 
 ![](img/both..heic)
 
