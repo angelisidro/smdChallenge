@@ -5,7 +5,7 @@ Reto de sodardura SMD diseñado para FIT ( Foro de innovación Tecnológica), es
 |----------|------|
 | <p align="center"><img src="img/both.HEIC" width="80"></p> | <p align="center"><img src="img/top.HEIC" width="80"></p> |
 
-
+![](img/both..heic)
 
 
 ## Créditos / Agradecimientos
