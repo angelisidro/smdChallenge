@@ -1,7 +1,8 @@
-# smdChallenge
+# SMD Challenge Guatemala
+
 Reto de sodardura SMD diseñado para ***FIT*** ( Foro de innovación Tecnológica), es un ***reto completamente gratuito***. 
 
-| Top Layer | Bottom Layer |
+| PCB | Top Layer |
 |----------|------|
 | <p align="center"><img src="img/both.jpg" width="500"></p> | <p align="center"><img src="img/top.jpg" width="500"></p> |
 
