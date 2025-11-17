@@ -1,9 +1,9 @@
 # smdChallenge
-Reto de sodardura SMD diseñado para FIT ( Foro de innovación Tecnológica), es un reto completamente gratuito. 
+Reto de sodardura SMD diseñado para ***FIT*** ( Foro de innovación Tecnológica), es un ***reto completamente gratuito***. 
 
 | Top Layer | Bottom Layer |
 |----------|------|
-| <p align="center"><img src="img/both.HEIC" width="80"></p> | <p align="center"><img src="img/top.HEIC" width="80"></p> |
+| <p align="center"><img src="img/both.jpg" width="80"></p> | <p align="center"><img src="img/top.jpg" width="80"></p> |
 
 ![](img/both..heic)
 
