@@ -12,7 +12,7 @@ Reto de sodardura SMD diseñado para ***FIT*** ( Foro de innovación Tecnológic
 
 [Visita el esquemático](https://github.com/angelisidro/smdChallenge/blob/main/docs/SCH_SMD_Challenge.pdf)
 
-## PCB Layout
+## PCB Layout
 
 [Visita el PCB Layout](https://github.com/angelisidro/smdChallenge/blob/main/docs/PCB_SMD_Challenge.pdf)
 
