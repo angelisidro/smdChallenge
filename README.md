@@ -12,6 +12,9 @@ Reto de sodardura SMD diseñado para ***FIT*** ( Foro de innovación Tecnológic
 
 <embed src="https://github.com/angelisidro/smdChallenge/blob/main/docs/SCH_SMD_Challenge.pdf" type="application/pdf" width="100%" height="600px" />
 
+[View the PDF Document](https://github.com/angelisidro/smdChallenge/blob/main/docs/SCH_SMD_Challenge.pdf)
+
+
 ## Créditos / Agradecimientos
 
 Gracias a [aspro648](https://github.com/aspro648) por la inspiración original y su trabajo en diseños previos.
