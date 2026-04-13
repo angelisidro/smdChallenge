@@ -8,6 +8,9 @@ Reto de sodardura SMD diseñado para ***FIT*** ( Foro de innovación Tecnológic
 
 ![](img/both..heic)
 
+## Circuito Esquemático
+
+<embed src="path/to/your/file.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## Créditos / Agradecimientos
 
